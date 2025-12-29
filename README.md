@@ -11,7 +11,7 @@ Manually adding non-Steam games is tedious:
 
 **SteamArr! automates all of this**, giving your games the same look as official Steam titles instantly.
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/8a9c5e01-9cbd-4e36-ac82-1e6a0d57a918" />
+<img width="500" height="400" alt="image" src="https://github.com/Vynxly/SteamArr/blob/main/image.png?raw=true" />
 
 ## ✨ Features
 
